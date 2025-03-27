@@ -565,3 +565,8 @@
   breadhunt:
   - rscadd: Tangle emitter starts disabled to prevent a bug
   - qol: Tangle emitter now gives feedback on whether it's enabled/disabled when attached
+2025-03-27:
+  Atropos:
+  - bugfix: Sulaco now has working squad overwatch consoles
+  tyeagg:
+  - rscadd: blood splatter turns towards angle

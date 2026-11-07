@@ -274,7 +274,7 @@
 /obj/effect/particle_effect/smoke/tactical
 	alpha = 40
 	opacity = FALSE
-	smoke_traits = SMOKE_CAMO // Only affects humans.
+	smoke_traits = SMOKE_CAMO|SMOKE_EXTINGUISH // Only affects humans.
 
 /obj/effect/particle_effect/smoke/tactical_xeno
 	alpha = 40
